@@ -1,0 +1,15 @@
+Begin3
+Title:          popclean
+Version:        1.0
+Entered-date:   12Aug03
+Description:    Clean remote POP3 mailboxes using Spamassassin
+Keywords:       mail, pop3, pop, spam, spamassassin
+Author:         root@zdo.com (Ali Onur Cinar)
+Maintained-by:  root@zdo.com (Ali Onur Cinar)
+Primary-site:   ftp://ftp.cpan.org/pub/CPAN/authors/id/A/AO/AOCINAR/popclean*
+Alternate-site: ftp://sunsite.unc.edu/pub/Linux/system/mail/misc/popclean*
+Original-site:  http://www.zdo.com/f/popclean.pl
+Home-Page:      http://www.zdo.com
+Platform:       Unix
+Copying-policy: GPL 
+End
